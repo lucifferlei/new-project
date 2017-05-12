@@ -1,0 +1,28 @@
+﻿.year{
+	background:url('../images/year.png') no-repeat center 0 #f3f3f3;
+}
+.year header{
+	background:url('../images/year.png') no-repeat center 0 #fff;
+}
+.g-nav{
+	background:url('../images/nav.png') 0 0;
+	border-top-color:#b22325;
+	position:relative;
+}
+.nav-round{
+	height:10px;
+	background:url('../images/nav_round.png') repeat-x 0 -24px #f3f3f3;
+}
+.g-nav li.active{
+	background:#b22325;
+}
+.g-search-b{
+	border-color:#C83436;
+}
+.g-search-b a{
+	border-left-color:#C83436;
+	background:url('../images/search.png') no-repeat center #C83436;
+}
+.g-search-icon i{
+	visibility:hidden;
+}

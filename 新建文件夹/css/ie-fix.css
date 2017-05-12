@@ -1,0 +1,142 @@
+﻿.g-notify i,.g-member i{
+	margin-top:10px;
+}
+.fix-item:hover{
+	margin-bottom:-4px;
+}
+.field-r{
+	margin-top:-20px;
+}
+.g-search-b i{
+	margin-top:10px;
+}
+.grid .column-l{
+	width:653px;
+}
+.dialog-close .icon-close{
+	margin-top:2px;
+}
+.login-w .btn-primary{
+	height:36px;
+}
+.category .icon-collapse,.sns-category .icon-collapse{
+	margin-top:-26px;
+}
+.album-list{
+	margin-left:-18px;
+}
+.album-list li{
+	position:relative;
+	left:18px;
+}
+.g-login-l ul{
+	margin-top:-20px;
+}
+.player-progress-w{
+	margin:12px 0;
+}
+.category-filter a{
+	float:none;
+}
+.photo-m-w .icon-vip-m,
+.photo-lx-w .icon-vip-l,
+.photo-s50-w .icon-vip-m,
+.icon-vip-s-w .icon-vip-s,
+.icon-s50-w .icon-vip-s
+{
+	position:absolute;
+	bottom:-6px;
+	right:-6px;
+}
+.photo-lx-w .icon-vip-l{
+	bottom:-8px;
+	right:-8px;
+}
+.photo-s50-r .btn-follow.fr{
+	margin-bottom:-40px;
+}
+.g-nav-m a{
+	line-height:16px;
+}
+.sub-users .blink{
+	float:left;
+}
+.b-anchor .f14{
+	display:inline
+}
+.banner-middle {
+    margin: 0 37px!important;
+}
+.topic-books{
+	margin-bottom:20px;
+}
+.category-book ul{
+	padding-left:0px!important;
+	position:relative;
+	left:20px;
+}
+.agency-r{
+	margin-right:-100px;
+}
+.h-user .user-link-item a{
+	margin:-6px 0px;
+}
+.share{
+	width:514px;
+}
+.subscribe-item,.subscribe-category-c span{
+	white-space:nowrap;
+	min-height:36px;
+}
+.subscribe-item{
+	position:relative;
+	padding-right:30px;
+}
+.subscribe-item a{
+	float:none;
+	top:0px;
+	right:0px;
+	position:absolute;
+}
+.subscribe-category li{
+	position:static;
+}
+.subscribe-category .arrow-top{
+	position:static;
+	margin-top:86px;
+	margin-left:-70px;
+}
+input[type="file"]{
+	font-size:14px!important;
+}
+.u-audio-list textarea{
+	width:400px!important;
+}
+.u-audio-r{
+	margin-top:-20px;
+}
+.dropdown{
+	display:inline!important;
+}
+.playing{
+	margin-top:20px;
+}
+.hot-keyword li a{white-space:nowrap;}
+.textarea_w{
+	display:inline;
+}
+.channel-links a{
+	margin-right:15px;
+}
+.d-editor-r textarea{
+	width:720px;
+}
+.d-comments-editor textarea{
+	width:740px;
+}
+.h-topic ul a{
+	word-wrap:normal;
+}
+.settings-main .field-r textarea{
+	margin-left:-96px;
+}
